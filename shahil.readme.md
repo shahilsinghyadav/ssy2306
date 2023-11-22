@@ -2,5 +2,5 @@ I work as an independent full-stack developer and content producer, gradually cr
 
 <p align="left">
   Languages and Tools : 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="100px" width="100px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="100" width="100">
 </p>
