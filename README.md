@@ -1,9 +1,7 @@
 I work as an independent full-stack developer and content producer, gradually creating my vision of the digital world. Every coding project is created from the ground up, starting with planning and designing and ending with using code to solve practical problems. Every video material is created in the same manner, starting with planning and ideation and ending with the addition of artistic touches.
 
 <p align="left">
-![image](https://github.com/ssy2306/ssy2306/assets/77876285/9487baad-a752-4d17-9796-160b6647fe03)
-
-
+<img src="https://github.com/ssy2306/ssy2306/assets/77876285/9487baad-a752-4d17-9796-160b6647fe03">
   Shahil's GitHub stats  <br>
 <img src="https://github-readme-stats.vercel.app/api?username=ssy2306&show_icons=true&theme=gruvbox" alt="Shahil's GitHub stats"> <br>
   Languages and Tools : <br><br>
