@@ -4,14 +4,11 @@ I work as an independent full-stack developer and content producer, gradually cr
   Shahil's GitHub stats  <br>
 <img src="https://github-readme-stats.vercel.app/api?username=ssy2306&show_icons=true&theme=gruvbox" alt="Shahil's GitHub stats"> <br>
   Languages and Tools : <br><br>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fhtml-5_732212&psig=AOvVaw2MxuFhKhZDFn06sqWBudvv&ust=1700741705573000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDK2tzK14IDFQAAAAAdAAAAABAE" height="35" width="40">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fcss-icon%2F&psig=AOvVaw0KNn2yWoBp116bJ5Uv-oFY&ust=1700741727195000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCciufK14IDFQAAAAAdAAAAABAE" height="35" width="40">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" height="35" width="40">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" height="35" width="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="35" width="40">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png](https://icons8.com/icon/54087/nodejs)" height="35" width="40">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png](https://icons8.com/icon/aqb9SdV9P8oC/prisma-orm)" height="35" width="40">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png](https://icons8.com/icon/UFXRpPFebwa2/mysql-logo)" height="35" width="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" height="35" width="40">
+  <img src="https://static-00.iconduck.com/assets.00/prisma-icon-423x512-isxs6996.png" height="35" width="40">
+  <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" height="35" width="40">
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="35" width="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="35" width="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="35" width="40">
 </p>
