@@ -2,7 +2,7 @@ I work as an independent full-stack developer and content producer, gradually cr
 
 <p align="left">
 
-<embed type="image/jpg" src = "ssy2306.github.io/HTML/index/homepage.html" >
+<iframe type="image/jpg" src = "ssy2306.github.io/HTML/index/homepage.html" ></iframe>
   Shahil's GitHub stats  <br>
 <img src="https://github-readme-stats.vercel.app/api?username=ssy2306&show_icons=true&theme=gruvbox" alt="Shahil's GitHub stats"> <br>
   Languages and Tools : <br><br>
