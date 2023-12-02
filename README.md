@@ -1,5 +1,5 @@
-I work as an independent full-stack developer and content producer, gradually creating my vision of the digital world. Every coding project is created from the ground up, starting with planning and designing and ending with using code to solve practical problems. Every video material is created in the same manner, starting with planning and ideation and ending with the addition of artistic touches.
-
+<div style="background-color: grey">I work as an independent full-stack developer and content producer, gradually creating my vision of the digital world. Every coding project is created from the ground up, starting with planning and designing and ending with using code to solve practical problems. Every video material is created in the same manner, starting with planning and ideation and ending with the addition of artistic touches.
+</div>
 <p align="left">
 <img src="https://github.com/ssy2306/ssy2306/assets/77876285/9487baad-a752-4d17-9796-160b6647fe03">
   Shahil's GitHub stats  <br>
