@@ -3,7 +3,7 @@
 <p align="left">
 <img src="https://github.com/ssy2306/ssy2306/assets/77876285/9487baad-a752-4d17-9796-160b6647fe03">
   Shahil's GitHub stats  <br>
-<img src="https://github-readme-stats.vercel.app/api?username=ssy2306&show_icons=true&theme=gruvbox" alt="Shahil's GitHub stats"> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=shahilsinghyadav&show_icons=true&theme=gruvbox" alt="Shahil's GitHub stats"> <br>
   Languages and Tools : <br><br>
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" height="35" width="40" padding="10">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" height="35" width="40"padding="10">
